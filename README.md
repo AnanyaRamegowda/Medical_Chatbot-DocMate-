@@ -91,8 +91,10 @@ DocMate uses OpenAI’s GPT model to process user queries and respond with accur
 - **Deployment Options**: GitHub Pages, Replit, Netlify
 
 ---
-## Access DocMate here: Click to Use DocMate – Your AI Doctor, Anytime, Anywhere
+## 🩺 Access DocMate here: Click to Use DocMate – Your AI Doctor, Anytime, Anywhere
 https://delightful-zuccutto-fdf23f.netlify.app/
+
+
 ## 🧪 How to Run & Test
 
 ### ✅ Option 1: Replit
